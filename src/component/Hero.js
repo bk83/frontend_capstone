@@ -16,7 +16,7 @@ export default function Hero() {
                         focused on traditional recipes served with a modern twist.
                     </p>
                     <button className="btn-primary">
-                        <Link to="/reservation" className="link-res">Reserve a Table</Link>
+                        <Link to="/bookingPage" className="link-res">Reserve a Table</Link>
                     </button>
                 </div>
                 <img className="top-image" src={top_image} alt="restaurant food"></img>

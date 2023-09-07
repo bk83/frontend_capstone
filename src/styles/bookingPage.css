@@ -1,0 +1,12 @@
+section.booking {
+  background-color: var(--color-green);
+  padding: 33px 16px 66px;
+}
+section.booking .container {
+  max-width: 350px;
+  margin: 0 auto;
+}
+section.booking h3, section.booking h4 {
+  color: #fff;
+  margin-bottom: 18px;
+}

@@ -15,16 +15,6 @@ export default function Header() {
             <h1 className='logo'>
                 <img src={logo} alt="logo" />
             </h1>
-            {/* <nav>
-                <ul className="menu-list">
-                    <li><a>Home</a></li>
-                    <li><a>About</a></li>
-                    <li><a>Menu</a></li>
-                    <li><a>Reservations</a></li>
-                    <li><a>Order online</a></li>
-                    <li><a>Login</a></li>
-                </ul>
-            </nav> */}
             <Nav />
             <div className="basket-icon">
                 <img src={basket} alt="basket" />

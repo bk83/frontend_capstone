@@ -25,6 +25,8 @@ header {
 .logo img {
   height: 100%;
   width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .basket-icon {
